@@ -1,0 +1,6 @@
+﻿libraries that need to installed
+* pandas is a Python library for data analysis and manipulation. It provides high-performance, easy-to-use data structures and data analysis tools.
+* numpy is a Python library for scientific computing. It provides a powerful n-dimensional array object, as well as a large collection of mathematical functions that operate on arrays.
+* matplotlib.pyplot is a Python library for plotting and data visualization. It provides a wide range of plotting capabilities, including line plots, bar charts, histograms, and scatter plots.
+* scikit-learn is a Python library for machine learning and statistical modeling. It provides a wide range of machine learning algorithms, including classification, regression, and clustering algorithms.
+* joblib is a Python library for saving and loading machine learning models. It provides a simple and efficient way to save and load models, as well as to manage model dependencies.
